@@ -1,6 +1,10 @@
 # Mocker
 
-**TODO: Add description**
+To see mocking issue run
+```
+mix deps.get
+mix test
+```
 
 ## Installation
 
